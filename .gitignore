@@ -99,6 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 # database
 notMNIST_large/
@@ -106,3 +107,5 @@ notMNIST_small/
 *.pickle
 *.tar.gz
 *.zip
+=======
+>>>>>>> 50754748abf9ebd94466198a8c236a24369c68cd
