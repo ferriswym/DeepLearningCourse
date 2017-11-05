@@ -103,6 +103,6 @@ ENV/
 # database
 notMNIST_large/
 notMNIST_small/
-.pickle
-.tar.gz
-.zip
+*.pickle
+*.tar.gz
+*.zip
